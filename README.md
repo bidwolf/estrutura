@@ -15,5 +15,3 @@ Ou de forma semelhante, analisamos o intervalo em termos de y e nesse caso utili
 * x pertencente ao conjunto dos números reais tal que ***{ f-¹ ( y )<= x <= g-¹ ( y ) }***
 
 A escolha do método é ditada pela forma que a região é descrita pois dependendo podemos evitar analisar mais regiões simplesmente trocando de método.
-
-
